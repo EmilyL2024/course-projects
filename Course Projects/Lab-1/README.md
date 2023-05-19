@@ -1,14 +1,13 @@
 
 ### Project Description:
 - This is a Java program that processes a file containing a list of possible FQDNs (Fully Qualified Domain Name) to report on the number of unique FQDNs, 2LD (2nd Level Domain), and TLDs (Top-Level Domain) found in the file.
-- To ensure the efficiency of the program, doubly linked-lists and sorted linked-lists are used for processing, and bouth of them implement the generic List interface that extends the Java Iterable interface.
-- Both of the doubly linked-lists and sorted linked-lists relies on Java API LinkedList to store data. The only difference is that doubly linked-lists add items in the order they appear in the file, while sorted linked-lists add items in the sorted order.
+- To ensure the efficiency of the program, doubly linked-lists and sorted linked-lists are used for processing and searching through the file
 
 ### File Description:
-- DList: doubly linked-lists implementation
-- SortedList: sorted linked-lists implementation
+- DList: doubly linked-lists implementation using Java API LinkedList, storing the data in the order they appear in the file
+- SortedList: sorted linked-lists implementation, storing the data in the sorted order
 - List: the generic linked-list interface, which extends from the Iterable interface
-- ProcessFQDN: main methods to execute the program and write out the results to a file
+- ProcessFQDN: main methods to search through the file using either one of the lists and write out the results to a file
 
 ### Results:
  The program will report:
