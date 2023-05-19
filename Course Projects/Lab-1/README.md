@@ -1,6 +1,9 @@
 
 ### Project Description:
 - This is a Java program that processes a file containing a list of possible FQDNs (Fully Qualified Domain Name) to report on the number of unique FQDNs, 2LD (2nd Level Domain), and TLDs (Top-Level Domain) found in the file.
+  - Example of FQDN: google.com
+  - Example of 2LD: google.com
+  - Example of TLD: com
 - To ensure the efficiency of the program, doubly linked-lists and sorted linked-lists are used for processing and searching through the file
 
 ### File Description:
