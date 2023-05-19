@@ -12,6 +12,7 @@ SortedList: sorted linked-lists implementation
 ProcessFQDN: main methods to execute the program and write out the results to a file
 
 Results:
+
 The program will report the type of list used, the number of FQDNs, the number of unique FQDNs, the number of unique TLDs, the number of unique 2LDs found in the file along with the execution time.
 
 
