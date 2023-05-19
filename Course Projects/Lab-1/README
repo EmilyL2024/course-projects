@@ -1,1 +1,2 @@
 
+This is a Java program that processes a file containing a list of possible FQDNs (Fully Qualified Domain Name) to report on the number of unique FQDNs, 2LD, and TLDs found in the file.
