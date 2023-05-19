@@ -10,7 +10,7 @@
 - DList: doubly linked-lists implementation using Java API LinkedList, storing the data in the order they appear in the file
 - SortedList: sorted linked-lists implementation, storing the data in the sorted order
 - List: the generic linked-list interface, which extends from the Iterable interface
-- ProcessFQDN: main methods to search through the file using either one of the lists and write out the results to a file
+- ProcessFQDN: main methods to search through the file using either one of the lists and write out the results (the content stored in the list) to a file
 
 ### Results:
  The program will report:
