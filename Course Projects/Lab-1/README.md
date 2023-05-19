@@ -7,6 +7,7 @@
 ### File Description:
 - DList: doubly linked-lists implementation
 - SortedList: sorted linked-lists implementation
+- List: the generic linked-list interface, which extends from the Iterable interface and is a partial implementation of Java API LinkedList
 - ProcessFQDN: main methods to execute the program and write out the results to a file
 
 ### Results:
