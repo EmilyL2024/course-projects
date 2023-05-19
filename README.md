@@ -3,7 +3,7 @@
 Welcome! My name is Emily, and I'm an undergraduate student at Wake Forest University double majoring in Statistics and Computer Science. This page displays some of the projects I've done. The most used languages in my projects are R and java, and I'm most comfortable using R for data analysis and model building.
 
 #### Projects on the page:
-- course projects from Data Structure and Algorithm (Java)
+- Course projects from Data Structure and Algorithm (Java)
 - Current Research project: dengue classifier (R)
 
 #### 💻 Tech Stack:
